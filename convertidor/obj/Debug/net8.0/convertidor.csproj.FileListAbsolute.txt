@@ -1,0 +1,14 @@
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\convertidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\convertidor.AssemblyInfoInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\convertidor.AssemblyInfo.cs
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\convertidor.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\bin\Debug\net8.0\convertidor.exe
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\bin\Debug\net8.0\convertidor.deps.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\bin\Debug\net8.0\convertidor.runtimeconfig.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\bin\Debug\net8.0\convertidor.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\bin\Debug\net8.0\convertidor.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\convertidor.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\refint\convertidor.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\convertidor.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\convertidor.genruntimeconfig.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\convertidor\obj\Debug\net8.0\ref\convertidor.dll

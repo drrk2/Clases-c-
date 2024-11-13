@@ -1,0 +1,14 @@
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\bin\Debug\net8.0\memoriadinamica.exe
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\bin\Debug\net8.0\memoriadinamica.deps.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\bin\Debug\net8.0\memoriadinamica.runtimeconfig.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\bin\Debug\net8.0\memoriadinamica.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\bin\Debug\net8.0\memoriadinamica.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\memoriadinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\memoriadinamica.AssemblyInfoInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\memoriadinamica.AssemblyInfo.cs
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\memoriadinamica.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\memoriadinamica.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\refint\memoriadinamica.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\memoriadinamica.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\memoriadinamica.genruntimeconfig.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\memoriadinamica\obj\Debug\net8.0\ref\memoriadinamica.dll

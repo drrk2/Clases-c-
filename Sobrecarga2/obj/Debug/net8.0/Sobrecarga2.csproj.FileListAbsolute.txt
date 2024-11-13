@@ -1,0 +1,14 @@
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\Sobrecarga2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\Sobrecarga2.AssemblyInfoInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\Sobrecarga2.AssemblyInfo.cs
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\Sobrecarga2.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\bin\Debug\net8.0\Sobrecarga2.exe
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\bin\Debug\net8.0\Sobrecarga2.deps.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\bin\Debug\net8.0\Sobrecarga2.runtimeconfig.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\bin\Debug\net8.0\Sobrecarga2.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\bin\Debug\net8.0\Sobrecarga2.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\Sobrecarga2.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\refint\Sobrecarga2.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\Sobrecarga2.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\Sobrecarga2.genruntimeconfig.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Sobrecarga2\obj\Debug\net8.0\ref\Sobrecarga2.dll
