@@ -1,0 +1,5 @@
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\list\obj\Debug\net8.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\list\obj\Debug\net8.0\list.AssemblyInfoInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\list\obj\Debug\net8.0\list.AssemblyInfo.cs
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\list\obj\Debug\net8.0\list.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\list\obj\Debug\net8.0\list.sourcelink.json

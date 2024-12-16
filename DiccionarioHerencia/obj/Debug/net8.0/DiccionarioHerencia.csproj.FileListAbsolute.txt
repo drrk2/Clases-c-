@@ -1,0 +1,15 @@
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\bin\Debug\net8.0\DiccionarioHerencia.exe
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\bin\Debug\net8.0\DiccionarioHerencia.deps.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\bin\Debug\net8.0\DiccionarioHerencia.runtimeconfig.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\bin\Debug\net8.0\DiccionarioHerencia.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\bin\Debug\net8.0\DiccionarioHerencia.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\DiccionarioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\DiccionarioHerencia.AssemblyInfoInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\DiccionarioHerencia.AssemblyInfo.cs
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\DiccionarioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\DiccionarioHerencia.sourcelink.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\DiccionarioHerencia.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\refint\DiccionarioHerencia.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\DiccionarioHerencia.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\DiccionarioHerencia.genruntimeconfig.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\DiccionarioHerencia\obj\Debug\net8.0\ref\DiccionarioHerencia.dll

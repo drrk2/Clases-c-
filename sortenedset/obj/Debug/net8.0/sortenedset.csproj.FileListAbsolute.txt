@@ -1,0 +1,15 @@
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\bin\Debug\net8.0\sortenedset.exe
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\bin\Debug\net8.0\sortenedset.deps.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\bin\Debug\net8.0\sortenedset.runtimeconfig.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\bin\Debug\net8.0\sortenedset.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\bin\Debug\net8.0\sortenedset.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\sortenedset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\sortenedset.AssemblyInfoInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\sortenedset.AssemblyInfo.cs
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\sortenedset.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\sortenedset.sourcelink.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\sortenedset.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\refint\sortenedset.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\sortenedset.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\sortenedset.genruntimeconfig.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\sortenedset\obj\Debug\net8.0\ref\sortenedset.dll

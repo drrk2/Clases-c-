@@ -1,0 +1,15 @@
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\bin\Debug\net8.0\Abstraccion2.exe
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\bin\Debug\net8.0\Abstraccion2.deps.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\bin\Debug\net8.0\Abstraccion2.runtimeconfig.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\bin\Debug\net8.0\Abstraccion2.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\bin\Debug\net8.0\Abstraccion2.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\Abstraccion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\Abstraccion2.AssemblyInfoInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\Abstraccion2.AssemblyInfo.cs
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\Abstraccion2.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\Abstraccion2.sourcelink.json
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\Abstraccion2.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\refint\Abstraccion2.dll
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\Abstraccion2.pdb
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\Abstraccion2.genruntimeconfig.cache
+C:\Users\Cesar\OneDrive\Escritorio\Escritorio\c# only\Abstraccion2\obj\Debug\net8.0\ref\Abstraccion2.dll
